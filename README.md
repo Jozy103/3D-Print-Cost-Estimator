@@ -20,7 +20,7 @@ I hope this helps!
 ## Getting Started
 
 1. The **FILAMENT**, **NOZZLES**, **PLATES**, and **PRINTERS** sheets hold tables where you can store information on the various filament and hardware you use. These tables are referred to by several formulas to calculate different costs. They currently hold information relevant to the Prusa CORE One+ (Gen 2) and a handful of filaments as examples. Please feel free to add your own data and remove the default data entirely.
-2. The **VARIABLES** sheet is where you can enter variables related to your print job, printer, and client. The information you enter will be used to create a final cost estimate that includes depreciation, overhead, labor, shipping, and other fees.
+2. The **VARIABLES** sheet is where you can enter variables related to your print job, printer, and client. The information you enter will be used to create a final cost estimate that includes depreciation, overhead, labor, shipping, and other fees. At a minimum, be sure to populate the fields highlighted in yellow.
 3. The **ESTIMATE** sheet holds the final product which is the cost estimate. This sheet can be printed to be used as a quote.
 
 ---
