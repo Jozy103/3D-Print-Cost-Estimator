@@ -6,6 +6,9 @@ The formulas in this workbook rely heavily on named ranges which should make it 
 
 I hope this helps!
 
+<img width="852" height="570" alt="image" src="https://github.com/user-attachments/assets/c14eb4ff-ddf3-4e0a-8f14-d0de80d5188b" />
+
+
 ---
 
 ## Downloading
