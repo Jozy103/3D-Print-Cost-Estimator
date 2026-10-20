@@ -10,18 +10,18 @@ I hope this helps!
 
 ## Downloading
 
-1.)	Download the latest workbook template from the **GitHub** repository page: https://github.com/Jozy103/3D-Print-Cost-Estimator
-2.)	Click the **Code** button in the top right of the repository page.
-3.)	Select **Download ZIP** and extract the files on your computer.
-4.)	Open the file in **Microsoft Excel**. Other spreadsheet software may be used, but can cause some features not break or work incorrectly.
+1. Download the latest workbook template from the **GitHub** repository page: https://github.com/Jozy103/3D-Print-Cost-Estimator
+2. Click the **Code** button in the top right of the repository page.
+3. Select **Download ZIP** and extract the files on your computer.
+4. Open the file in **Microsoft Excel**. Other spreadsheet software may be used, but can cause some features not break or work incorrectly.
 
 ---
 
 ## Getting Started
 
-1.) The **FILAMENT**, **NOZZLES**, **PLATES**, and **PRINTERS** sheets hold tables where you can store information on the various filament and hardware you use. These tables are referred to by several formulas to calculate different costs. They currently hold information relevant to the Prusa CORE One+ (Gen 2) and a handful of filaments as examples. Please feel free to add your own data and remove the default data entirely.
-2.)	The **VARIABLES** sheet is where you can enter variables related to your print job, printer, and client. The information you enter will be used to create a final cost estimate that includes depreciation, overhead, labor, shipping, and other fees.
-3.)	The **ESTIMATE** sheet holds the final product which is the cost estimate. This sheet can be printed to be used as a quote.
+1. The **FILAMENT**, **NOZZLES**, **PLATES**, and **PRINTERS** sheets hold tables where you can store information on the various filament and hardware you use. These tables are referred to by several formulas to calculate different costs. They currently hold information relevant to the Prusa CORE One+ (Gen 2) and a handful of filaments as examples. Please feel free to add your own data and remove the default data entirely.
+2. The **VARIABLES** sheet is where you can enter variables related to your print job, printer, and client. The information you enter will be used to create a final cost estimate that includes depreciation, overhead, labor, shipping, and other fees.
+3. The **ESTIMATE** sheet holds the final product which is the cost estimate. This sheet can be printed to be used as a quote.
 
 ---
 
