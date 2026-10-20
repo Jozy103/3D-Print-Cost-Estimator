@@ -13,7 +13,7 @@ I hope this helps!
 1. Download the latest workbook template from the **GitHub** repository page: https://github.com/Jozy103/3D-Print-Cost-Estimator
 2. Click the **Code** button in the top right of the repository page.
 3. Select **Download ZIP** and extract the files on your computer.
-4. Open the file in **Microsoft Excel**. Other spreadsheet software may be used, but can cause some features not break or work incorrectly.
+4. Open the file in **Microsoft Excel**. Other spreadsheet software may be used, but can cause some features to break or work incorrectly.
 
 ---
 
